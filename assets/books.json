@@ -1,0 +1,144 @@
+{
+    "books": [
+        {
+            "id": "1",
+            "title": "Moara cu noroc",
+            "image": "../assets/moara.jpg",
+            "flashcards": [
+                {
+                    "question": "Cine este personajul principal din 'Moara cu noroc'?",
+                    "answer": "Ghiță"
+                },
+                {
+                    "question": "Care este meseria lui Ghiță?",
+                    "answer": "Hangiu"
+                },
+                {
+                    "question": "Cine este Lică Sămădăul?",
+                    "answer": "Un temut conducător de porcari"
+                }
+            ],
+            "trueFalseQuestions": [
+                {
+                    "question": "Ghiță este pescar în 'Moara cu noroc'.",
+                    "answer": false
+                },
+                {
+                    "question": "Lică Sămădăul este cunoscut pentru cinstea sa.",
+                    "answer": false
+                },
+                {
+                    "question": "Povestea explorează tema lăcomiei și a moralității.",
+                    "answer": true
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "title": "Enigma Otiliei",
+            "image": "../assets/enigmaotiliei.jpg",
+            "flashcards": [
+                {
+                    "question": "Cine este autorul romanului 'Enigma Otiliei'?",
+                    "answer": "George Călinescu"
+                },
+                {
+                    "question": "Cine este Otilia?",
+                    "answer": "Fiica vitregă a lui Costache Giurgiuveanu"
+                },
+                {
+                    "question": "Cine dorește averea lui Costache Giurgiuveanu?",
+                    "answer": "Simion Tulea și familia sa"
+                }
+            ],
+            "trueFalseQuestions": [
+                {
+                    "question": "Felix este vărul Otiliei.",
+                    "answer": false
+                },
+                {
+                    "question": "Otilia se căsătorește cu Felix la finalul romanului.",
+                    "answer": false
+                },
+                {
+                    "question": "Tema principală a romanului este lupta pentru moștenire.",
+                    "answer": true
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "title": "Luceafărul",
+            "image": "../assets/luceafarul.jpg",
+            "flashcards": [
+                {
+                    "question": "Cine este autorul poemului 'Luceafărul'?",
+                    "answer": "Mihai Eminescu"
+                },
+                {
+                    "question": "Cine este iubita Luceafărului?",
+                    "answer": "Cătălina"
+                },
+                {
+                    "question": "Cine este Hyperion?",
+                    "answer": "Luceafărul din poezie"
+                }
+            ],
+            "trueFalseQuestions": [
+                {
+                    "question": "Cătălina îl iubește pe Hyperion.",
+                    "answer": false
+                },
+                {
+                    "question": "Hyperion devine om la finalul poeziei.",
+                    "answer": false
+                },
+                {
+                    "question": "Luceafărul este cel mai lung poem scris de Mihai Eminescu.",
+                    "answer": true
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "title": "Povestea lui Harap-Alb",
+            "image": "../assets/harapalb.jpg",
+            "flashcards": [
+                {
+                    "question": "Cine este autorul basmului 'Povestea lui Harap-Alb'?",
+                    "answer": "Ion Creangă"
+                },
+                {
+                    "question": "Ce nume poartă eroul principal înainte de a deveni Harap-Alb?",
+                    "answer": "Nu este menționat în basm"
+                },
+                {
+                    "question": "Cine îl ajută pe Harap-Alb în călătoria sa?",
+                    "answer": "Sfânta Duminică și cei cinci tovarăși cu puteri supranaturale"
+                },
+                {
+                    "question": "Cine este antagonistul principal al basmului?",
+                    "answer": "Spânul"
+                }
+            ],
+            "trueFalseQuestions": [
+                {
+                    "question": "Harap-Alb este fiul împăratului Roș.",
+                    "answer": false
+                },
+                {
+                    "question": "Spânul îl păcălește pe Harap-Alb și îl face sluga lui.",
+                    "answer": true
+                },
+                {
+                    "question": "Gerilă este unul dintre tovarășii lui Harap-Alb.",
+                    "answer": true
+                },
+                {
+                    "question": "Harap-Alb este o poveste despre maturizare și înțelepciune.",
+                    "answer": true
+                }
+            ]
+        }
+    ]
+}

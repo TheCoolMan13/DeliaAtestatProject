@@ -1,0 +1,11 @@
+
+Populkare db
+
+mysql -u username -p database_name < seed_data.sql
+
+
+pornire backend 
+node server.js
+
+Reinitializare Backup db
+mysql -u root -p books_db < "C:\Users\Ticusan Titus\Desktop\backup.sql"

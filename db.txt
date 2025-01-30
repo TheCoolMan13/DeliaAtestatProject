@@ -1,0 +1,16 @@
+-- Tabelul pentru cărți
+CREATE TABLE IF NOT EXISTS books (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    title VARCHAR(255) NOT NULL,
+    author VARCHAR(255),
+    description TEXT
+);
+
+-- Tabelul pentru întrebări (True/False)
+CREATE TABLE IF NOT EXISTS true_false_questions (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    book_id INT,
+    question TEXT NOT NULL,
+    is_true TINYINT(1) NOT NULL,
+    FOREIGN KEY (book_id) REFERENCES books(id) ON DELETE CASCADE
+);
